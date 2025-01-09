@@ -22,4 +22,4 @@ Un sistema AntiCheat para Assetto Corsa, que incluye desarrollo front end, docum
 Ampliando conocimientos en inteligencia artificial, inteligencia de negocios y análisis de datos para mantenerme actualizado en un mundo tecnológico en constante evolución.
 
 📫 Conéctate conmigo:
-LinkedIn | Portafolio https://portafolio-sebastian-gutierrez.netlify.app/
+LinkedIn www.linkedin.com/in/sebastián-gutiérrez-quiroz-71683a1ba | Portafolio https://portafolio-sebastian-gutierrez.netlify.app/
